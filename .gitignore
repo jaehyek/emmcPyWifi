@@ -1,0 +1,7 @@
+/.idea/
+/__pycache__/
+*.bat
+*.pyc
+/pyscript.wpu
+/clsvar_org.pickle
+/pyscript.wpr
